@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on not employed
-- 🌱 I’m currently learning JAVA, JSP, SPRING
-- 🤔 I’m looking for help with teaching
+- 🔭 I'm currently looking for a job
+- 🌱 I’m currently learning java, jsp, spring, SQL etc...
+- 🤔 I'm looking for a company that will teach me well
 - 💬 Ask me about anything
 - 📫 How to reach me: 010-8894-3132
-
