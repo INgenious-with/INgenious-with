@@ -17,8 +17,10 @@
 
 <h3 align="center">:bulb: My Skills & tools :bulb:
 <p align="center">
-  <span><img src="https://img.shields.io/badge/-JAVA-blueviolet"/></span>
- <span><img src="https://img.shields.io/badge/Slack-4A154B.svg?style=round-square&logo=Slack&logoColor=white"/></span><span><img src="https://img.shields.io/badge/Discord-5865F2?style=round-square&logo=Discord&logoColor=black"/></span>
+   <span><img src="https://img.shields.io/badge/-JAVA-blueviolet"/></span> <span><img src="https://img.shields.io/badge/-JSP-red"/></span>
+  <img src="https://img.shields.io/badge/Java-8BC0D0?style=flat-square&logo=Java&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=JSP&logoColor=blue"/>&nbsp
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp
   <br>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML&logoColor=green"/>&nbsp 
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=lightgrey"/>&nbsp 
