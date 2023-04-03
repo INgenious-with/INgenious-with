@@ -15,7 +15,7 @@
 💻가치 있는 사람이 되기 위해 노력 중입니다
 </p>
 
-<h3 align="center"> My Skills & tools :raising_hand:
+<h3 align="center">:bulb: My Skills & tools:ant:
 <p align="center">
   <img src="https://img.shields.io/badge/Java-8BC0D0?style=flat-square&logo=Java&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=JSP&logoColor=blue"/>&nbsp
