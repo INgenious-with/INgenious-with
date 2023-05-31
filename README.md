@@ -33,6 +33,6 @@
 
 <div align=left>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=INgenious-with&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=INgenious-with&show_icons=dracula">
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dracula">
 </div>
 <br>
