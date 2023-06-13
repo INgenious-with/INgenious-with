@@ -10,7 +10,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:injin0318@gmail.com)](mailto:injin0318@gmail.com) <span><a href="https://ingenious-with.notion.site/7a1ddb1de420448a901730fae238fb74"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
 
-
+ 
 
 <br>
 
