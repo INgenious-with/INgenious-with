@@ -1,11 +1,14 @@
 <div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=25&desc=injin's%20GitHub&descAlign=70.&descAlignY=44"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=25&desc=System%20Engineer%20injin's%20GitHub&descAlign=70.&descAlignY=44"/>
 </div>
   
 
 ## Profile
 🧑‍💻 김인진 <br>
 🕯️ 1992.04.06 <br>
+🏢 (주)와이드큐브 <br>
+✍️ 플랫폼 파트 <br>
+🧑🏻‍💻 대리 <br>
 📞 010-8894-3132 <br>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:injin0318@gmail.com)](mailto:injin0318@gmail.com) <span><a href="https://ingenious-with.notion.site/7a1ddb1de420448a901730fae238fb74"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
